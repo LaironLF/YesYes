@@ -6,7 +6,7 @@ namespace ConsoleApp12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("but today you make me sad((");
+            Console.WriteLine("i don't want live in this liar world(((");
             
         }
     }
