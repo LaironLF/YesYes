@@ -6,7 +6,7 @@ namespace ConsoleApp12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("No Hello World! >:(");
+            Console.WriteLine("okey Hello World! :)");
             
         }
     }
